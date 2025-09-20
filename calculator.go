@@ -6,5 +6,5 @@ import (
 
 func Sum(a, b int) int {
 	fmt.Println(a, b)
-	return a + b
+	return a + b + 2
 }
